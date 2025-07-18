@@ -222,7 +222,16 @@ main>section {
 }
 
 
-
+/* footer section styles */
+footer{
+    max-width: 1440px;
+    height: 100px;
+    margin: 100px auto;
+    background-color: #FFF4E7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
